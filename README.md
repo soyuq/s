@@ -1,1 +1,1 @@
-just a simple /s/
+just a simple hosted repo
