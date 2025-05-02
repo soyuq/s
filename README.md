@@ -1,3 +1,4 @@
 # Soyuq
 ### [Hosted Note](http://simp.ly/p/YGjfPg) - http://simp.ly/p/YGjfPg
-### [Repo](https://github.com/soyuq/s/edit/main/README.md) - https://github.com/soyuq/s/edit/main/README.md
+### [Repo](https://github.com/soyuq/s) - https://github.com/soyuq/s
+### [Edit](https://github.com/soyuq/s/edit/main/README.md) - https://github.com/soyuq/s/edit/main/README.md
